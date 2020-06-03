@@ -1,0 +1,13 @@
+br/com/model/config/AccountTransactionFilter.class
+br/com/model/persistence/entity/Module.class
+br/com/model/config/WebConfig.class
+br/com/model/exception/FailedLoginException.class
+br/com/model/persistence/entity/Role.class
+br/com/model/exception/BusinessRunTimeException.class
+br/com/model/service/implementation/ModelServiceImpl.class
+br/com/model/service/ModelService.class
+br/com/model/controller/ModelController.class
+br/com/model/config/SwaggerConfig.class
+br/com/model/persistence/repository/ModuleRepository.class
+br/com/model/persistence/repository/RoleRepository.class
+br/com/model/ApiModelApplication.class

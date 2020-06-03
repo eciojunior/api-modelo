@@ -1,0 +1,14 @@
+/home/ecio/Inovacao/api-modelo/src/main/java/br/com/model/config/SwaggerConfig.java
+/home/ecio/Inovacao/api-modelo/src/main/java/br/com/model/controller/ModelController.java
+/home/ecio/Inovacao/api-modelo/src/main/java/br/com/model/config/AccountTransactionFilter.java
+/home/ecio/Inovacao/api-modelo/src/main/java/br/com/model/util/Translator.java
+/home/ecio/Inovacao/api-modelo/src/main/java/br/com/model/exception/FailedLoginException.java
+/home/ecio/Inovacao/api-modelo/src/main/java/br/com/model/persistence/entity/Module.java
+/home/ecio/Inovacao/api-modelo/src/main/java/br/com/model/ApiModelApplication.java
+/home/ecio/Inovacao/api-modelo/src/main/java/br/com/model/service/implementation/ModelServiceImpl.java
+/home/ecio/Inovacao/api-modelo/src/main/java/br/com/model/config/WebConfig.java
+/home/ecio/Inovacao/api-modelo/src/main/java/br/com/model/exception/BusinessRunTimeException.java
+/home/ecio/Inovacao/api-modelo/src/main/java/br/com/model/persistence/repository/RoleRepository.java
+/home/ecio/Inovacao/api-modelo/src/main/java/br/com/model/persistence/repository/ModuleRepository.java
+/home/ecio/Inovacao/api-modelo/src/main/java/br/com/model/service/ModelService.java
+/home/ecio/Inovacao/api-modelo/src/main/java/br/com/model/persistence/entity/Role.java
